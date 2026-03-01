@@ -17,22 +17,16 @@ class Adrian:
 
 ## 🛠 Tech Stack
 
-* Python 🐍
-* JavaScript
-* SQL
-* HTML5
-* CSS3
+💻 Languages  
+- Python  
+- JavaScript  
+- SQL  
 
-## 🚀 Currently learning
+🌐 Web  
+- HTML5  
+- CSS3  
 
-* Data Analysis
-* Web Development
-* Databases
-
-## 📈 Goals
-
-✔ Build real projects
-✔ Improve English
-✔ Get first tech job
-
-⭐ Always learning.
+⚙ Tools  
+- Git  
+- GitHub  
+- VS Code  
