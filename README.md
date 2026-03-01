@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm Adrian
 
-<!--
-**adrianss14/adrianss14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Systems Development Student
+🌎 Brazil
+🚀 Future Data & Web Developer
 
-Here are some ideas to get you started:
+```python
+class Adrian:
+    def __init__(self):
+        self.learning = ["Python", "SQL", "JavaScript", "HTML", "CSS"]
+        self.goal = "Work with technology and have a good life."
+        self.interests = ["Data Analysis", "Web Development", "Automation"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def future(self):
+        return "Data Engineer & AI Specialist"
+```
+
+## 🛠 Tech Stack
+
+* Python 🐍
+* JavaScript
+* SQL
+* HTML5
+* CSS3
+
+## 🚀 Currently learning
+
+* Data Analysis
+* Web Development
+* Databases
+
+## 📈 Goals
+
+✔ Build real projects
+✔ Improve English
+✔ Get first tech job
+
+⭐ Always learning.
