@@ -9,7 +9,7 @@ class Adrian:
     def __init__(self):
         self.learning = ["Python", "SQL", "JavaScript", "HTML", "CSS"]
         self.goal = "Work with technology and have a good life."
-        self.interests = ["Data Analysis", "Web Development", "Automation"]
+        self.interests = ["Data Analysis", "Web Development", "Automation, Cyber Security"]
 
     def future(self):
         return "Data Engineer & AI Specialist"
