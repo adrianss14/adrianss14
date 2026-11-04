@@ -2,25 +2,29 @@
 
 💻 Systems Development Student
 🌎 Brazil
-🚀 Future Data & Web Developer
+🚀 Future Systems Developer
 
 ```python
 class Adrian:
     def __init__(self):
-        self.learning = ["Python", "SQL", "JavaScript", "HTML", "CSS"]
+        self.learning = ["Python", "SQL", "JavaScript", "Java"]
         self.goal = "Work with technology and have a good life."
-        self.interests = ["Data Analysis", "Web Development", "Automation, Cyber Security"]
+        self.interests = ["Web Development", "Automation, Cyber Security"]
 
     def future(self):
-        return "Data Engineer & AI Specialist"
+        return {
+            "roles": ["Software Developer", "Systems Developer"],
+            "profile": "Tech Enthusiast"
+        }
 ```
 
 ## 🛠 Tech Stack
 
 💻 Languages  
-- Python  
-- JavaScript  
-- SQL  
+- Python
+- SQL
+- JavaScript
+- Java  
 
 🌐 Web  
 - HTML5  
@@ -29,4 +33,13 @@ class Adrian:
 ⚙ Tools  
 - Git  
 - GitHub  
-- VS Code  
+- VS Code
+- IntelliJ IDEA
+- XAMPP
+
+🗣️ Idiomas 
+-* **Português:** Nativo
+-* **Inglês:** Intermediário
+-* **Espanhol:** Intermediário  
+
+  
