@@ -9,7 +9,7 @@ class Adrian:
     def __init__(self):
         self.learning = ["Python", "SQL", "JavaScript", "Java"]
         self.goal = "Work with technology and have a good life."
-        self.interests = ["Web Development", "Automation, Cyber Security"]
+        self.interests = ["Web Development", "Cyber Security"]
 
     def future(self):
         return {
@@ -38,8 +38,10 @@ class Adrian:
 - XAMPP
 
 🗣️ Idiomas 
--* **Português:** Nativo
--* **Inglês:** Intermediário
--* **Espanhol:** Intermediário  
+- **Português:** Nativo
+- **Inglês:** Intermediário
+- **Espanhol:** Intermediário  
+ 
+
 
   
